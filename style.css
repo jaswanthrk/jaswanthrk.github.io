@@ -1,0 +1,158 @@
+html, body {
+  margin: 0;
+  height: 100vh;		
+  /*background: url(images/img1.jpg) no-repeat center center fixed; */
+}
+
+#page-bg {
+	/*filter: blur(2px);*/
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width:  100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	z-index: -1;
+	position: absolute;
+}
+
+.zone {
+    padding:10px 25px;
+    margin: 40px 60px;
+    background-color: rgb(180,24,25);
+}
+
+.main-nav {
+	width:100%;
+    display: flex;
+    list-style: none;
+    margin: 0px;
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Kavoon', cursive;
+    font-family: 'Crimson Text', serif;
+    font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+    font-family: 'Roboto Slab',serif;
+    font-family: 'nunito';
+    font-family: "soleil", sans-serif;
+    font-family: ;
+    font-family: 'Comic Neue', cursive;
+    font-weight: 600;
+    font-size: 1em;
+}
+
+.push {
+	margin-left: auto;
+}
+
+
+li {
+    padding: 0 10px ;
+}
+
+li.nav-item > a {
+	color: black;
+}
+
+@media only screen and (max-width: 600px){
+    .main-nav {
+        font-size: 0.5em;
+        padding: 0;
+    }
+}
+
+
+.navbar-light li > a, .light-text{
+	color : black !important;
+}
+
+.navbar-dark li > a, .dark-text{
+	/*color : #ffecec !important;*/
+	color : #b6b6b6 ;
+}
+
+#end {
+	position: 1;
+}
+
+/*.drp-light .navbar-nav > li > .dropdown-menu > .dropdown-item { 
+	background-color: #dadada !important; 
+}
+*/
+
+.drp-light { 
+	background-color: #dadada !important; 
+}
+
+.drp-dark{ 
+	background-color: #262626 !important; 
+}
+
+.dark-mode-links {
+	color : #b41819;
+}
+
+.light-mode-links {
+	color : #ed6767;
+	font-family: 'nunito';
+    font-weight: 500;
+    font-size: 1rem;
+}
+
+
+.jumbo-container {
+	height: 15vh;
+}
+
+.my-photo {
+	width: 200px;
+    height: 200px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+img {
+    display: inline;
+    margin: 0 auto;
+    height: 100%;
+    width: auto;
+}
+
+.jumbotron {
+	background: transparent;
+}
+
+.footer-container li {
+    padding: 0 20px ;
+}
+
+
+.footer-container li:hover {
+	cursor: pointer !important;
+}
+
+#current {
+	max-width: 800px;
+	min-width: 300px;
+	padding: 0 15px;
+	margin: 0 auto;
+	text-align: center;
+	font-family: 'Comic Neue', cursive;
+    font-weight: 600;
+    font-size: 1em;
+}
+
+/*.nav-item{margin-bottom:-1px}
+.nav-link{border:1px solid transparent;border-top-left-radius:.25rem;border-top-right-radius:.25rem}
+.nav-link:focus,.nav-tabs .nav-link:hover{border-color:#e9ecef #e9ecef #dee2e6}
+.nav-link.disabled{color:#6c757d;background-color:transparent;border-color:transparent}
+.nav-item.show .nav-link,.nav-tabs .nav-link.active{color:#495057;background-color:#fff;border-color:#dee2e6 #dee2e6 #fff}
+.dropdown-menu{margin-top:-1px;border-top-left-radius:0;border-top-right-radius:0}
+.nav-pills .nav-link{border-radius:.25rem}
+.nav-pills .nav-link.active,.nav-pills .show>.nav-link{color:#fff;background-color:#007bff}
+.nav-fill .nav-item{-ms-flex:1 1 auto;flex:1 1 auto;text-align:center}
+.nav-justified .nav-item{-ms-flex-preferred-size:0;flex-basis:0;-ms-flex-positive:1;flex-grow:1;text-align:center}
+*/
+
