@@ -144,6 +144,11 @@ img {
     font-size: 1em;
 }
 
+#iconn {
+    width: 60px;
+    height: : 60px;
+}
+
 /*.nav-item{margin-bottom:-1px}
 .nav-link{border:1px solid transparent;border-top-left-radius:.25rem;border-top-right-radius:.25rem}
 .nav-link:focus,.nav-tabs .nav-link:hover{border-color:#e9ecef #e9ecef #dee2e6}
