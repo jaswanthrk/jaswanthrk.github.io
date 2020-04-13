@@ -19,7 +19,7 @@ function changeTheColor() {
 		// document.body.style.background = 'rgb(0,129,147)';
 		// document.body.style.background = 'radial-gradient(circle, rgba(0,129,147,1) 0%, rgba(0,0,0,1) 100%)'
 		// document.body.style.background = 'url(images/img1.jpg) no-repeat center center fixed';
-		zone.style.background   = "#b41819";
+		// zone.style.background   = "#b41819";
 		zone.style.background   = "#000000";
 
 		pagebg.style.background = '#262626';
@@ -60,16 +60,15 @@ function changeTheColor() {
 		// document.body.style.background = 'img/img1.jpg'
 		// document.body.style.background = 'radial-gradient(circle, rgba(255,197,197,1) 0%, rgba(255,255,255,1) 100%)';
 		// pagebg.style.background = 'url(images/img4.jpg) no-repeat center center fixed';
-		zone.style.background   = "#ed6767";
-		zone.style.background   = "#7d8993";
-		zone.style.background   = "#d1a561";
-		zone.style.background   = "#9d766c";
-		zone.style.background   = "#d1a561";
-		zone.style.background   = "#d1a561";
-		zone.style.background   = "#d1a561";
-		zone.style.background   = "#E5998E";
+		// zone.style.background   = "#ed6767";
+		// zone.style.background   = "#7d8993";
+		// zone.style.background   = "#d1a561";
+		// zone.style.background   = "#9d766c";
+		// zone.style.background   = "#d1a561";
+		// zone.style.background   = "#d1a561";
+		// zone.style.background   = "#d1a561";
+		// zone.style.background   = "#E5998E";
 		zone.style.background   = "#ffffff";
-
 		pagebg.style.background = '#EEF2F4';
 
 		// drpdwn.style.backgroundColor = "#ffffff";
