@@ -40,7 +40,7 @@ function changeTheColor() {
 		}		
 	}
 	else { // LIGHT MODE
-		zone.style.background   = "#ffffff";
+		zone.style.background   = "#EEF2F4";
 		pagebg.style.background = '#EEF2F4';
 
 		chngbutton.classList.remove("btn-outline-light");
