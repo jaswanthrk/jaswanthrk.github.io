@@ -82,7 +82,7 @@ li.nav-item > a {
 */
 
 .drp-light { 
-	background-color: #dadada !important; 
+	background-color: #ffffff !important; 
 }
 
 .drp-dark{ 
@@ -94,7 +94,7 @@ li.nav-item > a {
 }
 
 .light-mode-links {
-	color : #ed6767;
+	color : #000;
 	font-family: 'nunito';
     font-weight: 500;
     font-size: 1rem;
@@ -102,7 +102,7 @@ li.nav-item > a {
 
 
 .jumbo-container {
-	height: 15vh;
+	height: 12vh;
 }
 
 .my-photo {

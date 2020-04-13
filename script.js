@@ -68,7 +68,7 @@ function changeTheColor() {
 		zone.style.background   = "#d1a561";
 		zone.style.background   = "#d1a561";
 		zone.style.background   = "#E5998E";
-		zone.style.background   = "#bef8fe";
+		zone.style.background   = "#ffffff";
 
 		pagebg.style.background = '#EEF2F4';
 
@@ -103,54 +103,3 @@ changeTheColor();
 console.log(i)
 chngbutton.addEventListener("click", changeTheColor)
 
-// function inputLength() {
-// 	return input.value.length;
-// }
-
-// function createListElement() {
-// 	var li = document.createElement("li");
-// 	li.appendChild(document.createTextNode(input.value));
-// 	ul.appendChild(li);
-// 	input.value = "";
-// 	li.addEventListener("click", toggleDone)
-// }
-
-// function addListAfterClick() {
-// 	if (inputLength() > 0) {
-// 		createListElement();
-// 	}
-// }
-
-// function addListAfterKeypress(event) {
-// 	if (inputLength() > 0 && event.keyCode === 13) {
-// 		createListElement();
-// 	}
-// }
-
-// function checkIfDone(items) {
-// 	for(var i = 0; i < items.classList.length ; i++) {
-// 		if(items.classList[i] == 'done') {
-// 			console.log('Hello')
-// 	        return true;
-// 	    }
-// 	}
-// 	return false;
-// }
-
-// function toggleDone(event) {
-// 	if (checkIfDone(event.target)) {
-// 		console.log('Hello')
-// 		event.target.classList.remove('done');
-// 	}
-// 	else {
-// 		event.target.classList.add('done');
-// 	}
-// }
-
-// button.addEventListener("click", addListAfterClick);
-// input.addEventListener("keypress", addListAfterKeypress);
-
-// for (var i = listItems.length - 1; i >= 0; i--) {
-// 	listItems[i].addEventListener("click", toggleDone);
-// 	console.log('Added to ' + listItems[i].innerHTML)
-// }
