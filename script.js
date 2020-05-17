@@ -69,7 +69,7 @@ function changeTheColor() {
 	console.log(i)
 }
 
-var i = 1;
+var i = 0;
 changeTheColor();
 console.log(i)
 chngbutton.addEventListener("click", changeTheColor)
