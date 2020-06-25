@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jaswanthayrus
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jaswanthayrus.me
+  * I am jaswanthayrus (https://keybase.io/jaswanthayrus) on keybase.
+  * I have a public key ASDINiPqaTBPIOEPT8OO3spQmvB_pYLi-Wl5d5g6X2aDpgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c83623ea69304f20e10f4fc38edeca509af07fa582e2f9697977983a5f6683a60a",
+      "host": "keybase.io",
+      "kid": "0120c83623ea69304f20e10f4fc38edeca509af07fa582e2f9697977983a5f6683a60a",
+      "uid": "8df7771c039aae18bcdbf84d3cbac019",
+      "username": "jaswanthayrus"
+    },
+    "merkle_root": {
+      "ctime": 1593116846,
+      "hash": "61be0384f784aaa59881bd72a2edb493cb84880fa21589358e73586b57375d08e984e26a1514fa8a8d89217d4532bde0cd68dbf9a1db68c9acff88b32f1f6226",
+      "hash_meta": "a8f56a86d3d3fa120794d6e8df15c7ab374f98e577541f6aa2ae03fea637a099",
+      "seqno": 16777556
+    },
+    "service": {
+      "entropy": "0zpbz6cSR4SwGxfbfQZom41x",
+      "hostname": "jaswanthayrus.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1593116912,
+  "expire_in": 504576000,
+  "prev": "20f61d5175135b0b0700317aaa65ca5c323145c9db64ab853b91627a84772795",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgyDYj6mkwTyDhD0/Djt7KUJrwf6WC4vlpeXeYOl9mg6YKp3BheWxvYWTESpcCB8QgIPYdUXUTWwsHADF6qmXKXDIxRcnbZKuFO5FieoR3J5XEIPKi+l3gygIhhBosbB6bzoYUVGf0+CTZK9xv9GnazaykAgHCo3NpZ8RACuCi7m7CJ5fBbd/0cd/DFXGT10bmwZLQBX5i7JBs2YtiDx+YYJOe/VJG+T3ljyTFiY0OQcgSekYj2mWY97XqAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOz3hCL5bZd7fQBZmPZA+JWOLDw26mnM27hxyOoxcGlXo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jaswanthayrus
+
+==================================================================
