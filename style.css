@@ -102,7 +102,7 @@ li.nav-item > a {
 
 
 .jumbo-container {
-	height: 0vh;
+	height: -20vh;
 }
 
 .my-photo {
